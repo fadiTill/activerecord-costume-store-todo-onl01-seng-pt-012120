@@ -1,5 +1,5 @@
 # Create a class and inherit from ActiveRecord::Migration
-class CreateCostumes 
+class CreateCostumes
 endActiveRecord::Migration[4.2]
   def change
     create_table :dogs do |t|
