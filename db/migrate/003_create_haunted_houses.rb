@@ -9,6 +9,7 @@ class HauntedHouses < ActiveRecord::Migration[4.2]
     t.string  :family_friendly
     t.datetime :opening_time
     t.datetime  :closing_time
+    t.string : long_description
     end
   end
 end
