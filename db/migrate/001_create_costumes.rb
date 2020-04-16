@@ -5,7 +5,7 @@ ActiveRecord::Migration[4.2]
     create_table :costumes do |t|
     t.string  :name
     t.integer :price
-              :image url
+              :image_url
               :size
     t.timestamps
     end
