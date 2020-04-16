@@ -7,7 +7,7 @@ ActiveRecord::Migration[4.2]
     t.integer :price
               :image url
               :size
-              :datetime
+    t.timestamps
     end
   end
 end
