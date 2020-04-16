@@ -1,2 +1,2 @@
 # Create your CostumeStore class here
-class
+class Costume
